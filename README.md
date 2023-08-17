@@ -1,5 +1,5 @@
-### Hi there 👋
-### A highly motivated Pyton Full Stack Web Developer . Proficient in developing websites using HTML, CSS, JavaScript, React js, Bootstrap, Python, Django and MySQL. Looking forward to working in an organization that can challenge his abilities as a web developer.
+### Hi 👋, I'm Neelam baweja
+A highly motivated Pyton Full Stack Web Developer . Proficient in developing websites using HTML, CSS, JavaScript, React js, Bootstrap, Python, Django and MySQL. Looking forward to working in an organization that can challenge his abilities as a web developer.
 
 <!--
 **Neelambaweja/Neelambaweja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
